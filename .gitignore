@@ -1,13 +1,30 @@
+# EXT filesystem journal
 lost+found
+
+# X11-related data files
 .Xauthority
+.xsession*
+
+# Bash / login related config
 .bash_logout
 .bashrc
-.xsession*
+.bash_history
 .profile
-*.swp
-.cache
+
+# All shared files
+Shared
+
+# Git-related files
 .gitconfig
+
+# SSH config and key files
+.ssh
+
+# Vim swap files
+*.swp
+
+# Misc config and cache files
+.cache
 .pki
 .config/chromium
-.ssh
 .pp_backup
