@@ -9,3 +9,4 @@ lost+found
 .gitconfig
 .pki
 .config/chromium
+.ssh
