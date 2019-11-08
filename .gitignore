@@ -10,3 +10,4 @@ lost+found
 .pki
 .config/chromium
 .ssh
+.pp_backup
