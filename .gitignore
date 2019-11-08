@@ -8,3 +8,4 @@ lost+found
 .cache
 .gitconfig
 .pki
+.config/chromium
