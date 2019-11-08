@@ -1,1 +1,10 @@
 lost+found
+.Xauthority
+.bash_logout
+.bashrc
+.xsession*
+.profile
+*.swp
+.cache
+.gitconfig
+.pki
